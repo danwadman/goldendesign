@@ -1,0 +1,57 @@
+$primaryorange: #F89C27;
+$primaryblue: #13293d;
+$primaryred: #da3c10;
+$primarycerulean: #108480;
+$neutralgrey: #c2c2c2;
+$neutral_lgrey: #f6f5f5;
+$comp_borange: #d7520a;
+$comp_fgreen: #457d38;
+$comp_fblue: #0372bf;
+$comp_purple: #511984;
+
+.btn {
+    height: 42px !important;
+	border-radius: 0rem !important;
+	&:focus {
+		border: 1px solid black !important;
+	}
+}
+
+.btn-primary {
+	color: black !important;
+	border: 1px solid $primaryorange !important;
+	background-color: $primaryorange !important;
+	&:hover {
+		background-color: lighten($primaryorange, 10%) !important;
+		border-color: lighten($primaryorange, 10%) !important;
+	}
+}
+.btn-outline-primary {
+	color: black !important;
+	border: 1px solid $primaryorange !important;
+	background-color: white !important;
+	&:hover {
+		background-color: $primaryorange !important;
+	}
+}
+
+
+
+#backtotop {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: $primaryorange; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  font-size: 18px; /* Increase font size */
+}
+
+#backtotop:hover {
+  background-color: $neutralgrey; /* Add a dark-grey background on hover */
+}

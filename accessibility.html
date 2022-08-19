@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>WebBased Design Standards</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/styleguide.css" type="text/css" />
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+                crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+        <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+        <script src="js/styleguide.js"></script>
+
+        <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="images/favicon/site.webmanifest">
+        <link rel="shortcut icon" href="images/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-config" content="images/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+    </head>
+
+    <body>
+
+        <div id="header"></div>
+
+        <div class="container">
+
+            <button tabindex="9" onclick="topFunction()" id="backtotop" tabindex="1" title="Go to top">Top</button>
+
+            <div class="row">
+
+                <div id="nav" class="col-md-4 mt42">></div>
+
+                <div id="main" class="col-md-8 mt26">
+
+
+
+                    <h1 class="mb52 b"> Accessibility </h1>
+                    
+                    <p>A few examples of common acessiblity mistakes</p>
+                    
+                    <hr class="mb16">
+                    
+                    <h4 class="mb26">Contrast</h4>
+
+                    
+
+                        
+
+                            <h5>WCAG 2.1 - SC 1.4.3 Contrast (Minimum)</h5>
+                    
+                            <p>The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following: (Level AA)</p>
+
+                            <ul>
+                                <li>Large Text: Large-scale text and images of large-scale text have a contrast ratio of at least 3:1</li>
+                            </ul>
+                            
+                            <h6 class="b">For example</h6>
+                            <ul>
+                                <li><span>Background colour:</span> #f1f1f1;</li>
+                                <li><span>Text color:</span> #000000;</li>
+                            </ul>
+
+                            <p>This would meet a contrast ratio of <span class="b">18.59:1</span></p>
+
+                            <p>The minimum needed to meet compliance with font size 16px or less is <span class="b">4.5:1</span></p>
+                    
+                            <a class="b" href="https://webaim.org/resources/contrastchecker/" style="color:#193b57;">https://webaim.org/resources/contrastchecker/</a>
+
+
+                        
+
+
+
+                        
+                            <hr>
+                            <h4 class="mb26">Styling</h4>
+
+
+
+                            <h5>WCAG 2.1 - SC 1.3.1 Info and Relationships</h5>
+                    
+                            <p>Always try to use html's semantic elements to convey meaning rather than using presentation techniques.</p>
+                    
+                            <h6 span class="b"> For example </h6>
+                    
+                            <ul>
+                                <li>Use html heading tags to denote sections. </li>
+                                <li>Use lists instead of table markup with images of bullet point to show lists items</li>
+                            </ul>
+
+                            <p>Always try to seperate style from layout.</p>
+
+
+
+
+                        
+
+
+                        
+                            <hr>
+                            <h4 class="mb26">Images</h4>
+
+
+
+                            <h5>WCAG 2.1 - SC 1.1.1 Non-text content</h5>
+
+                            <p>Make sure every image has an alt text and that it is relevant to the image and not a default text.</p>
+
+
+
+                            <hr>
+                            <h4 class="mb26">Keyboard</h4>
+
+
+
+                            <h5>WCAG 2.1 - SC 2.1.1 Keyboard</h5>
+
+                            <p>Wherever possible, content can be operated through a keyboard or keyboard interface. For example can all of the admin menu be accessed using just the keyboard?</p>
+                        
+
+
+
+                        <div class="guidance_box p26 mt26">
+                            <h4> Guidance </h4>
+                            <hr class="mb26">
+                            <p>Everything should be created with accessibility in mind.</p>
+                            <p>All elements should meet <span class="b">WCAG 2.1 - Level AA</span></p>
+                        </div>
+                    
+                </div>
+            </div>
+
+            </body>
+        </html>

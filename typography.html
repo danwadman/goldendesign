@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>WebBased Design Standards</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/styleguide.css" type="text/css" />
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+                crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+        <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+        <script src="js/styleguide.js"></script>
+        
+        <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="images/favicon/site.webmanifest">
+        <link rel="shortcut icon" href="images/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-config" content="images/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+    </head>
+
+    <body>
+
+        <div id="header"></div>
+
+        <div class="container">
+            
+            <button tabindex="9" onclick="topFunction()" id="backtotop" title="Go to top">Top</button>
+
+            <div class="row">
+
+                <div id="nav" class="col-md-4 mt42">></div>
+
+                <div id="main" class="col-md-8 mt26">
+
+                    <h1 class="mb42 b"> Typography </h1>
+                    <hr class="mb16">
+                    
+                    <h4 class="mb16"> Font </h4>
+
+                    <p class="mb16"> Font stack:</p>
+                    <code>font-family: "Lato", ariel, sans-serif; </code>
+
+                    <p class="mt16">Google src:</p>
+
+                    <p class="mb16"><code>link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet"</code></p>
+
+                    <h4 class="mt42 mb16">Headings</h4>
+
+
+
+                    <hr class="mt16 mb16">
+
+                    <p class="b"> Heading </p>
+
+                    <div class="d-flex flex-row align-items-center justify-content-between">
+                        
+                    <div class="flex-column align-items-left">
+
+                        <p><b>Size</b>: 2.625rem (42px) </p>
+                        <p><b>line-height</b>: 150% (24px)</p>  
+                        <p>Use h1 with overide</p>
+                    </div>
+                    
+                    <div class="flex-column align-items-right">
+                    <h1 class="align-right">Test Sub Heading</h1>
+                    </div>
+                        
+                    </div>
+
+                    <hr class="mt16 mb16">
+
+                    <p class="b"> Sub Heading </p>
+
+                    <div class="d-flex flex-row align-items-center justify-content-between">
+                        
+                    <div class="flex-column align-items-left">
+
+                        <p><b>Size</b>: 1.625rem (26px) </p>
+                        <p><b>line-height</b>: 150% (24px) </p>  
+                        <p>Use h4 with overide</p>
+                    </div>
+                    
+                    <div class="flex-column align-items-right">
+                    <h4 class="align-right">Test Sub Heading</h4>
+                    </div>
+                        
+                    </div>
+
+                    <hr class="mt15 mb20">
+
+                    <p class="b"> Body Text </p>
+
+                    <div class="d-flex flex-row align-items-center justify-content-between">
+                        
+                    <div class="flex-column align-items-left">
+
+                        <p><b>Size</b>: 1rem (16px) </p>
+                        <p><b>line-height</b>: 150% (24px)</p>  
+                        <p>Use standard tags without overide (16px by dafault)</p>
+                    </div>
+                    
+                    <div class="flex-column align-items-right">
+                    <p>Test Sub Heading</p>
+                    </div>
+                        
+                    </div>
+
+                    <br />
+
+                    <div class="guidance_box p26 mt26">
+                        <h4> Guidance </h4>
+                        <hr class="mb26">
+                        
+                        <p><b>Font</b></p>
+        
+                        <p>The main font for WebBased content is Google Lato, however appropriate alternatives should be specificed to ensure consistency.</p>
+                        
+                        <p><b>Font size</b></p>
+                        <p>16px has been chosen as the body font size as this is the recommended standard according to W3C - <a href="https://www.w3.org/QA/Tips/font-size" target="_blank">https://www.w3.org/QA/Tips/font-size</a></p>
+                        
+                        <p>This is reinforced by an in depth article in Smashing Magazine - <a href="https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/" target="_blank">https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/</a></p>
+
+                        <p>There are <b>three font sizes</b> available and they have been chosen based on Fibanaci's golden ratio.</p>
+                        
+                        <p>The only exception to this in when Deep Saffron (webbased orange) is used as a background colour for a button. In this screnario, 19px should be used for hte font size and white as the font colour. In order to meet aa accessbility guidelines.</p>
+
+                        <p>"Two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. The figure below illustrates the geometric relationship."</p>
+
+                        <a href="images/designs/golden_ratio.png">
+                            <img id="ignore" src="images/designs/golden_ratio.png" class="mt10 mb15" alt="Golden Ratio" width="30%">
+                        </a>
+                        
+                        <p>Putting this into practice with font sizes, 16px is the body font size, so will be the 'shortest side', then 26px would need to be the 'longest' to keep them in the golden ratio. The sum of these two sizes is 42px.</p>
+                        
+                        <p>The line height for all text should be 150%. This is bootstraps standard line height</p>
+                        
+                                            
+                        <p>For more information on the golden ratio, please visit <a href="https://en.wikipedia.org/wiki/Golden_ratio" target="_blank">https://en.wikipedia.org/wiki/Golden_ratio</a></p>
+                        
+                        <p>The easiest way to apply these three font sizes is to overide bootstrap default h tag sizes.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </body>
+</html>

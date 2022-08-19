@@ -1,0 +1,85 @@
+$primaryorange: #F89C27;
+$primaryblue: #13293d;
+$primaryred: #da3c10;
+$primarycerulean: #108480;
+$neutralgrey: #c2c2c2;
+$neutral_lgrey: #f6f5f5;
+$comp_borange: #d7520a;
+$comp_fgreen: #457d38;
+$comp_fblue: #0372bf;
+$comp_purple: #511984;
+
+@media only screen and (max-width: 1199px) {
+    #nav {
+        display: none;
+        position: absolute;
+        z-index: 999;
+        background-color: rgba(0, 0, 0, .9);
+        color: #ffffff;
+        width: 59% !important;
+        margin-top: -50px !important;
+    }
+    #nav li > a {
+        color: #ffffff !important;
+        &:hover {
+            color: #333333!important;
+        }
+        width: 50%;
+    }
+    .icon{
+        display: inline-block;
+    }    
+    #close{
+        display: none;
+    }
+
+}
+
+@media only screen and (min-width: 1200px) {
+    .icon {
+        display: none;
+    }
+        
+    #close{
+        display: none;
+    }
+    #open{
+        display: none;
+    }
+    #nav {
+        display: inline-block;
+    }
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+}
+#nav li {
+    a {
+        display: block;
+        color: #333333;
+        padding: 15px;
+        margin: 10px;
+        text-decoration: none;
+        &:hover {
+            background-color: $neutral_lgrey;
+            color: black;
+            text-decoration: none;
+        }
+    }
+}
+
+
+/* Change the link color on hover */
+
+.active {
+    background-color: $neutral_lgrey;
+}
+
+ion-icon {
+  font-size: 32px;
+  display: inline-block
+}

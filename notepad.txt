@@ -1,0 +1,69 @@
+<a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/austin-distel-wD1LRb9OeEo-unsplash.jpg"></a>
+        <a href="images/abbie-bernet-A_AuirVquQY-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/abbie-bernet-A_AuirVquQY-unsplash.jpg"></a>
+        <a href="images/adam-wilson-mM7V59F5syw-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/adam-wilson-mM7V59F5syw-unsplash.jpg"></a>
+        <a href="images/adult-business-computer-contemporary-380769.jpg" target="_blank"><img id="imgtab" class="small" src="images/adult-business-computer-contemporary-380769.jpg"></a>
+        <a href="images/ambrose-chua-zxbNbuncq1g-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/ambrose-chua-zxbNbuncq1g-unsplash.jpg"></a>
+        <a href="images/annie-spratt-FSFfEQkd1sc-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/annie-spratt-FSFfEQkd1sc-unsplash.jpg"></a>
+        <a href="images/annie-spratt-J67BWDuNq0U-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/annie-spratt-J67BWDuNq0U-unsplash.jpg"></a>
+        <a href="images/arlington-research-Kz8nHVg_tGI-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/arlington-research-Kz8nHVg_tGI-unsplash.jpg"></a>
+        <a href="images/austin-distel-mpN7xjKQ_Ns-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/austin-distel-mpN7xjKQ_Ns-unsplash.jpg"></a>
+        <a href="images/automobile-automotive-blurred-background-car-385997.jpg" target="_blank"><img id="imgtab" class="small" src="images/automobile-automotive-blurred-background-car-385997.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/blogger-336371_1920.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/christina-wocintechchat-com-0hGVZGBnW7U-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/christina-wocintechchat-com-r1dsQ4-cTqI-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/clayton-cardinalli-c2TtstRPmgU-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/clayton-cardinalli-GwOqUzrDSRM-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/clayton-cardinalli-JMoFpdqL3XM-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/finn-hackshaw-FQgI8AD-BSg-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/group-of-people-using-laptops-1560932.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/jake-hills-bt-Sc22W-BE-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/natalia-y-DIewyzpUbRc-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/orange-steel-canopy-2413081.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/roman-bozhko-PypjzKTUqLo-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/sps-universal-MnPF-0DTQ5c-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/startup-3267505_1920.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/tiffany-nutt-0ClfreiNppM-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/tim-van-der-kuip-CPs2X8JYmS8-unsplash.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/two-person-listening-to-woman-standing-beside-poster-1647919.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/workplace-1245776_1920.jpg"></a>
+        <a href="images/austin-distel-wD1LRb9OeEo-unsplash.jpg" target="_blank"><img id="imgtab" class="small" src="images/z-s-pKvmGR4qHrg-unsplash.jpg"></a>
+
+<h1 class="mb50"> Colour </h1>
+                    <hr class="mb15">
+
+                    <H4 class="mb25">Main Colours</H4>
+                    <div class="col-md-12 d-flex">
+                        <div class="p15">
+                            <div class="circle_orange d-flex justify-content-center align-items-center"><p id="orange_circle">#f99d29<br /><b>Deep Saffron</b><br />rgb(249,157,41)</p></div>
+
+                        </div>
+
+                        <div class="p15">                                      
+                            <div class="circle_blue d-flex justify-content-center align-items-center"><p class="white">#13293d<br /><b>Yankees Blue</b><br />rgb(19,41,61)</p></div>
+                        </div>
+                    </div>
+
+                    <H4 class="mb25">Accent Colours</H4>
+                    <div class="col-md-12 d-flex justify-content-left">
+                        <div class="p15">
+                            <div class="circle_burnt_orange d-flex justify-content-center align-items-center"><p>#f05e36<br /><b>Portland Orange</b><br />rgb(240,94,54)</div>
+                        </div>
+
+                        <div class="p15">
+                            <div class="circle_gold d-flex justify-content-center align-items-center"><p class="white">#a5681d<br /><b>Light Brown</b><br /> rgb(165,104,29)</div>
+                        </div>
+                    </div>
+
+
+                    <H4 class="mb25">Neutral Colours</H4>
+                    <div class="col-md-12 d-flex justify-content-left">
+                        <div class="p15">
+                            <div class="circle_grey d-flex justify-content-center align-items-center"><p>#c2c2c2<br /><b>Silver Sand</b><br />rgb(194,194,194)</div>
+                        </div>
+
+                        <div class="p15">
+                            <div class="circle_light_grey d-flex justify-content-center align-items-center"><p>#f6f5f5<br /><b>White Smoke</b><br />rgb(246,245,245)</div>
+                        </div>
+                    </div>

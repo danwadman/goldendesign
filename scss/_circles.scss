@@ -1,0 +1,66 @@
+$primaryorange: #F89C27;
+$primaryblue: #13293d;
+$primaryred: #da3c10;
+$primarycerulean: #108480;
+$neutralgrey: #c2c2c2;
+$neutral_lgrey: #f6f5f5;
+$comp_borange: #d7520a;
+$comp_fgreen: #457d38;
+$comp_fblue: #0372bf;
+$comp_purple: #511984;
+
+.square_orange {
+	background: $primaryorange;
+	width: 125px;
+	height: 125px;
+
+}
+.square_blue {
+	background: $primaryblue;
+	width: 125px;
+	height: 125px;
+
+}
+.square_red {
+	background: $primaryred;
+	width: 125px;
+	height: 125px;
+
+}
+.square_cerulean {
+	background: $primarycerulean;
+	width: 125px;
+	height: 125px;
+
+}
+.square_grey {
+	background: $neutralgrey;
+	width: 125px;
+	height: 125px;
+
+}
+.square_light_grey {
+	background: $neutral_lgrey;
+	width: 125px;
+	height: 125px;
+}
+.square_borange {
+	background: $comp_borange;
+	width: 125px;
+	height: 125px;
+}
+.square_fgreen {
+	background: $comp_fgreen;
+	width: 125px;
+	height: 125px;
+}
+.square_fblue {
+	background: $comp_fblue;
+	width: 125px;
+	height: 125px;
+}
+.square_purple {
+	background: $comp_purple;
+	width: 125px;
+	height: 125px;
+}

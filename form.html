@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <title>WebBased Design Standards</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/styleguide.css" type="text/css" />
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+                crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+        <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+        <script src="js/styleguide.js"></script>
+    </head>
+
+    <body>
+        <div id="header"></div>
+
+        <div class="container">
+            
+            <button tabindex="9" onclick="topFunction()" id="backtotop" title="Go to top">Top</button>
+
+            <div class="row">
+
+                <div id="nav" class="col-md-4 mt42">></div>
+
+                <div id="main" class="col-md-8 mt26">
+
+                    <h1 class="mb42 b"> Form Elements </h1>
+                    <hr class="mb16">
+
+                
+                    <form>
+                        <div class="form-group">
+                          <label for="exampleFormControlInput1">Email address</label>
+                          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                        </div>
+                        <div class="form-group">
+                          <label for="exampleFormControlSelect1">Example select</label>
+                          <select class="form-control" id="exampleFormControlSelect1">
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                          </select>
+                        </div>
+                        <div class="form-group">
+                          <label for="exampleFormControlSelect2">Example multiple select</label>
+                          <select multiple class="form-control" id="exampleFormControlSelect2">
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                          </select>
+                        </div>
+                        <div class="form-group">
+                          <label for="exampleFormControlTextarea1">Example textarea</label>
+                          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                        </div>
+                      </form>
+                    
+                    
+
+
+
+                    <div class="guidance_box p26 mt26">
+                        <h4> Guidance </h4>
+                        <hr class="mb26">
+                        <p>All form fields should have a focus state border of <code>'1px solid black'</code></p>
+                        
+                        <p> The height should be 42px (following the golden ratio).</p>
+
+                        <p class="mt26 b">Text Field</p>
+                        <ul>
+                            <li><span class="b">transition:</span> border-color ease-in-out .15s,box-shadow ease-in-out .15s;</li>
+                            <li><span class="b">box-shadow:</span> 0px 0px 1px 1px #597d67;</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </body>
+</html>
